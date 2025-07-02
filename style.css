@@ -487,6 +487,10 @@ h6 {
   font-weight: 400;
 }
 
+.job-description + .job-description {
+  margin-top: 1rem;
+}
+
 /* Responsive Design Updates */
 @media (max-width: 768px) {
   .about {
